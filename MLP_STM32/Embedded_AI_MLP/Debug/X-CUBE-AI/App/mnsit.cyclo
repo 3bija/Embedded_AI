@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/mnsit.c:362:9:mnsit_configure_activations	2
+../X-CUBE-AI/App/mnsit.c:395:9:mnsit_configure_weights	2
+../X-CUBE-AI/App/mnsit.c:434:9:ai_mnsit_get_info	4
+../X-CUBE-AI/App/mnsit.c:481:9:ai_mnsit_get_report	4
+../X-CUBE-AI/App/mnsit.c:528:10:ai_mnsit_get_error	1
+../X-CUBE-AI/App/mnsit.c:535:10:ai_mnsit_create	1
+../X-CUBE-AI/App/mnsit.c:546:10:ai_mnsit_create_and_init	8
+../X-CUBE-AI/App/mnsit.c:581:12:ai_mnsit_inputs_get	2
+../X-CUBE-AI/App/mnsit.c:592:12:ai_mnsit_outputs_get	2
+../X-CUBE-AI/App/mnsit.c:603:11:ai_mnsit_destroy	1
+../X-CUBE-AI/App/mnsit.c:610:9:ai_mnsit_init	2
+../X-CUBE-AI/App/mnsit.c:627:8:ai_mnsit_run	1
+../X-CUBE-AI/App/mnsit.c:635:8:ai_mnsit_forward	1
