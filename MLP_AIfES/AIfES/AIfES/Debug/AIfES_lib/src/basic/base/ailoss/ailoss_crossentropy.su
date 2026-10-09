@@ -1,0 +1,4 @@
+../AIfES_lib/src/basic/base/ailoss/ailoss_crossentropy.c:40:11:ailoss_crossentropy	16	static
+../AIfES_lib/src/basic/base/ailoss/ailoss_crossentropy.c:68:6:ailoss_crossentropy_calc_delta	32	static
+../AIfES_lib/src/basic/base/ailoss/ailoss_crossentropy.c:88:6:ailoss_crossentropy_calc_loss	32	static
+../AIfES_lib/src/basic/base/ailoss/ailoss_crossentropy.c:100:6:ailoss_crossentropy_dummy_backward	16	static

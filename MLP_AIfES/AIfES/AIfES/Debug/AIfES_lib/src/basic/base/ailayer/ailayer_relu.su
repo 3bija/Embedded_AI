@@ -1,0 +1,4 @@
+../AIfES_lib/src/basic/base/ailayer/ailayer_relu.c:39:12:ailayer_relu	16	static
+../AIfES_lib/src/basic/base/ailayer/ailayer_relu.c:76:6:ailayer_relu_forward	32	static
+../AIfES_lib/src/basic/base/ailayer/ailayer_relu.c:87:6:ailayer_relu_backward	32	static
+../AIfES_lib/src/basic/base/ailayer/ailayer_relu.c:100:6:ailayer_relu_calc_result_shape	16	static

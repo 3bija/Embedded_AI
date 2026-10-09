@@ -1,0 +1,9 @@
+../AIfES_lib/src/cnn/base/ailayer/ailayer_conv2d.c:41:12:ailayer_conv2d	4
+../AIfES_lib/src/cnn/base/ailayer/ailayer_conv2d.c:109:6:ailayer_conv2d_forward	1
+../AIfES_lib/src/cnn/base/ailayer/ailayer_conv2d.c:130:6:ailayer_conv2d_backward	1
+../AIfES_lib/src/cnn/base/ailayer/ailayer_conv2d.c:182:6:ailayer_conv2d_calc_result_shape	4
+../AIfES_lib/src/cnn/base/ailayer/ailayer_conv2d.c:225:10:ailayer_conv2d_sizeof_bwdmem	2
+../AIfES_lib/src/cnn/base/ailayer/ailayer_conv2d.c:241:10:ailayer_conv2d_sizeof_paramem	4
+../AIfES_lib/src/cnn/base/ailayer/ailayer_conv2d.c:259:6:ailayer_conv2d_set_paramem	4
+../AIfES_lib/src/cnn/base/ailayer/ailayer_conv2d.c:284:10:ailayer_conv2d_sizeof_trainmem	4
+../AIfES_lib/src/cnn/base/ailayer/ailayer_conv2d.c:304:6:ailayer_conv2d_set_trainmem	4

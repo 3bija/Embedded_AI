@@ -1,0 +1,3 @@
+../AIfES_lib/src/basic/base/ailayer/ailayer_softmax.c:39:12:ailayer_softmax	16	static
+../AIfES_lib/src/basic/base/ailayer/ailayer_softmax.c:73:6:ailayer_softmax_forward	32	static
+../AIfES_lib/src/basic/base/ailayer/ailayer_softmax.c:83:6:ailayer_softmax_calc_result_shape	16	static

@@ -1,0 +1,4 @@
+../AIfES_lib/src/basic/base/ailayer/ailayer_softsign.c:39:12:ailayer_softsign	16	static
+../AIfES_lib/src/basic/base/ailayer/ailayer_softsign.c:77:6:ailayer_softsign_backward	112	dynamic
+../AIfES_lib/src/basic/base/ailayer/ailayer_softsign.c:101:6:ailayer_softsign_forward	32	static
+../AIfES_lib/src/basic/base/ailayer/ailayer_softsign.c:111:6:ailayer_softsign_calc_result_shape	16	static

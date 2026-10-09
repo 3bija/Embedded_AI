@@ -1,0 +1,9 @@
+../AIfES_lib/src/basic/base/ailayer/ailayer_dense.c:38:12:ailayer_dense	1
+../AIfES_lib/src/basic/base/ailayer/ailayer_dense.c:92:6:ailayer_dense_forward	1
+../AIfES_lib/src/basic/base/ailayer/ailayer_dense.c:107:6:ailayer_dense_backward	3
+../AIfES_lib/src/basic/base/ailayer/ailayer_dense.c:148:6:ailayer_dense_calc_result_shape	1
+../AIfES_lib/src/basic/base/ailayer/ailayer_dense.c:158:10:ailayer_dense_sizeof_bwdmem	2
+../AIfES_lib/src/basic/base/ailayer/ailayer_dense.c:174:10:ailayer_dense_sizeof_paramem	4
+../AIfES_lib/src/basic/base/ailayer/ailayer_dense.c:192:6:ailayer_dense_set_paramem	4
+../AIfES_lib/src/basic/base/ailayer/ailayer_dense.c:218:10:ailayer_dense_sizeof_trainmem	4
+../AIfES_lib/src/basic/base/ailayer/ailayer_dense.c:237:6:ailayer_dense_set_trainmem	4

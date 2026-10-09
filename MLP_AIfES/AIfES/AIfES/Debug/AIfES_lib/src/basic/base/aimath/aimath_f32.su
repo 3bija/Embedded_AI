@@ -1,0 +1,2 @@
+../AIfES_lib/src/basic/base/aimath/aimath_f32.c:43:6:aimath_f32_print_aitensor	176	static
+../AIfES_lib/src/basic/base/aimath/aimath_f32.c:97:6:aimath_f32_print_aiscalar	16	static

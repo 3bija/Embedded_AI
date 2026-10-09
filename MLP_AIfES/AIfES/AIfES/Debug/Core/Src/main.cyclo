@@ -1,0 +1,17 @@
+../Core/Inc/aifes_f32_fnn.h:81:9:aifes_f32_fnn_create_model	2
+../Core/Inc/aifes_f32_fnn.h:125:6:aifes_f32_fnn_inference	1
+../Core/Src/main.c:91:6:synchronize_UART	4
+../Core/Src/main.c:117:5:acquire_and_process_data	3
+../Core/Src/main.c:146:5:post_process	3
+../Core/Src/main.c:170:5:main	4
+../Core/Src/main.c:246:6:SystemClock_Config	4
+../Core/Src/main.c:298:13:MX_I2C1_Init	4
+../Core/Src/main.c:346:13:MX_SAI1_Init	2
+../Core/Src/main.c:399:13:MX_SDMMC1_SD_Init	2
+../Core/Src/main.c:431:13:MX_SPI2_Init	2
+../Core/Src/main.c:471:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:519:13:MX_USART3_UART_Init	5
+../Core/Src/main.c:567:13:MX_USB_OTG_FS_PCD_Init	2
+../Core/Src/main.c:598:13:MX_FMC_Init	2
+../Core/Src/main.c:658:13:MX_GPIO_Init	1
+../Core/Src/main.c:878:6:Error_Handler	1

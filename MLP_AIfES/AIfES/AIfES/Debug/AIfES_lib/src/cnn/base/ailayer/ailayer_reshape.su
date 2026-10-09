@@ -1,0 +1,4 @@
+../AIfES_lib/src/cnn/base/ailayer/ailayer_reshape.c:38:12:ailayer_reshape	16	static
+../AIfES_lib/src/cnn/base/ailayer/ailayer_reshape.c:75:6:ailayer_reshape_forward	32	static
+../AIfES_lib/src/cnn/base/ailayer/ailayer_reshape.c:90:6:ailayer_reshape_backward	32	static
+../AIfES_lib/src/cnn/base/ailayer/ailayer_reshape.c:104:6:ailayer_reshape_calc_result_shape	32	static

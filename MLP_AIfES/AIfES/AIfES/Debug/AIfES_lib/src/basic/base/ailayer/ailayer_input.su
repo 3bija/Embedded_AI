@@ -1,0 +1,4 @@
+../AIfES_lib/src/basic/base/ailayer/ailayer_input.c:39:12:ailayer_input	16	static
+../AIfES_lib/src/basic/base/ailayer/ailayer_input.c:71:6:ailayer_input_forward	16	static
+../AIfES_lib/src/basic/base/ailayer/ailayer_input.c:76:6:ailayer_input_backward	16	static
+../AIfES_lib/src/basic/base/ailayer/ailayer_input.c:81:6:ailayer_input_calc_result_shape	16	static
